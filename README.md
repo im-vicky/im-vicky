@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with design.
 - 💬 Ask me about React and Linux.
 - 📫 How to reach me: im-vicky.github.io
-- 😄 Pronouns: he/him
   <!-- - ⚡ Fun fact: -->
+
   ![Github stats](https://github-readme-stats.vercel.app/api?username=im-vicky&show_icons=true)
